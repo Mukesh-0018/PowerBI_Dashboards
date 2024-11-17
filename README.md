@@ -21,12 +21,7 @@ KPI Tracking: Offers a clear view of critical performance indicators for the hos
 
 Data Modeling: Leveraged calculated measures to enable insightful and precise analysis.
 
-Learning Takeaways
+#FILES
+https://github.com/Mukesh-0018/RevenueInsightsDashboard/tree/main
+https://github.com/Mukesh-0018/RevenueInsightsDashboard/tree/main
 
-Tooltips: Enhanced user experience and made complex metrics more accessible.
-
-Hospitality-Specific KPIs: Gained deeper understanding of metrics like RevPAR and ADR.
-
-Storytelling with Data: Balanced dense data and clean visuals to craft an intuitive, functional dashboard.
-
-Revenue insights.pdf 
