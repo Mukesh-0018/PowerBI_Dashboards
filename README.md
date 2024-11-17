@@ -21,6 +21,5 @@ KPI Tracking: Offers a clear view of critical performance indicators for the hos
 
 Data Modeling: Leveraged calculated measures to enable insightful and precise analysis.
 
-#FILES
-https://github.com/Mukesh-0018/RevenueInsightsDashboard/tree/main
+
 
