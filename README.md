@@ -28,3 +28,5 @@ Tooltips: Enhanced user experience and made complex metrics more accessible.
 Hospitality-Specific KPIs: Gained deeper understanding of metrics like RevPAR and ADR.
 
 Storytelling with Data: Balanced dense data and clean visuals to craft an intuitive, functional dashboard.
+
+Revenue insights.pdf 
