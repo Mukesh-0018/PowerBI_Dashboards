@@ -23,5 +23,4 @@ Data Modeling: Leveraged calculated measures to enable insightful and precise an
 
 #FILES
 https://github.com/Mukesh-0018/RevenueInsightsDashboard/tree/main
-https://github.com/Mukesh-0018/RevenueInsightsDashboard/tree/main
 
